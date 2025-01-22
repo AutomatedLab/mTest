@@ -5,12 +5,12 @@ Environments:
     AzSubscriptionId: 97a23911-65d6-4cb2-8ace-9d77325c42e6
     Identities:
     - Name: M365DscSetupApplication
-      ApplicationId: 0801f8ae-4ea4-494a-8c7d-ad03021b0d2c
+      ApplicationId: 
       CertificateThumbprint: 9BC851E918F253624B84ED111BDCDCDFE60F19F5
     - Name: M365DscLcmCertApplication
-      ApplicationId: 218c48e6-e62c-4e42-ab48-f203d3996bbd
+      ApplicationId: 
       CertificateThumbprint: 9BAC558948C69DA46234FFB679E8CE0CE2E5652D
     - Name: M365DscExportApplication
-      ApplicationId: 89446bed-a0b7-45ef-af59-492def560b51
+      ApplicationId: 
       CertificateThumbprint: 5760144DE7DB30F525E2571364EA9F02174E7B89
 
