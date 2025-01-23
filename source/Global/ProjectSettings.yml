@@ -1,4 +1,4 @@
-OrganizationName: SummitDemox
+OrganizationName: SummitDemo
 PersonalAccessToken: 8Ww6yekXdFLXSRP0MBriY84cjHbgXRlFINbqi2v4zjIvtjggMrx3JQQJ99BAACAAAAAZ7R1HAAASAZDOAr0u
 ProjectName: mTest
 AgentPoolName: DSC
@@ -7,4 +7,3 @@ BuildAgents:
   Password: <Password>
   AzureLocation: West Europe
   AzureRoleSize: Standard_D4ls_v5
-
