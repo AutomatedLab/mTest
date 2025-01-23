@@ -4,6 +4,6 @@ ProjectName: Microsoft365DscWorkshop
 AgentPoolName: DSC
 BuildAgents:
   UserName: worker
-  Password: <Password>
+  Password: Somepass1
   AzureLocation: West Europe
   AzureRoleSize: Standard_D4ls_v5
